@@ -41,9 +41,11 @@ h4{
 img{
     display:block;
     width:100%;
-    max-width:700px;
+    max-width:450px;
+    height:auto;
     margin:20px auto;
     border-radius:10px;
+}
 }
 
 p{
